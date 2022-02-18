@@ -1,4 +1,4 @@
-package de.telekom.de.bigBankingBrojekt.Implementation;
+package de.telekom.sea7.bigBankingBrojekt.Implementation;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -7,8 +7,8 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
 
-import de.telekom.de.bigBankingBrojekt.Interfaces.Zahlung;
-import de.telekom.de.bigBankingBrojekt.Interfaces.Zahlungen;
+import de.telekom.sea7.bigBankingBrojekt.Interfaces.Zahlung;
+import de.telekom.sea7.bigBankingBrojekt.Interfaces.Zahlungen;
 
 /**
  * ZahlungenImpl hat 2 eigene Methoden (multiImport und multiExport) extends

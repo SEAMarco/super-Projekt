@@ -1,10 +1,10 @@
-package de.telekom.de.bigBankingBrojekt.Implementation;
+package de.telekom.sea7.bigBankingBrojekt.Implementation;
 
 import java.util.ArrayList;
 import java.util.Iterator;
 
-import de.telekom.de.bigBankingBrojekt.OutOfRangeException;
-import de.telekom.de.bigBankingBrojekt.Interfaces.GenericList;
+import de.telekom.sea7.bigBankingBrojekt.OutOfRangeException;
+import de.telekom.sea7.bigBankingBrojekt.Interfaces.GenericList;
 
 /** die Klasse bildet ein Template für Listen und dazugehörigen Methoden
 *   <T> = Typ der generisch beim instanzieren der Klasse angegeben werden muss

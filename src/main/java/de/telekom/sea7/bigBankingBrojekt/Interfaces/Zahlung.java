@@ -1,4 +1,4 @@
-package de.telekom.de.bigBankingBrojekt.Interfaces;
+package de.telekom.sea7.bigBankingBrojekt.Interfaces;
 
 public interface Zahlung {
 	/**Get Methode mit Beispiel mit normaler Exception Klasse aus Java*/

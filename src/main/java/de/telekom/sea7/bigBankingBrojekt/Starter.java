@@ -1,9 +1,9 @@
-package de.telekom.de.bigBankingBrojekt;
+package de.telekom.sea7.bigBankingBrojekt;
 
 import java.io.IOException;
 
-import de.telekom.de.bigBankingBrojekt.Implementation.ApplicationImpl;
-import de.telekom.de.bigBankingBrojekt.Interfaces.Application;
+import de.telekom.sea7.bigBankingBrojekt.Implementation.ApplicationImpl;
+import de.telekom.sea7.bigBankingBrojekt.Interfaces.Application;
 
 /** Klasse ist vergleich mit einer .exe, sie startet das Programm
 *   Zwecck: Direkter Einstieg in die Objektorientierung

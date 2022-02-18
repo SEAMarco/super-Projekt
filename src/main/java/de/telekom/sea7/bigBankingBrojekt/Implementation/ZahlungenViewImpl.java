@@ -1,8 +1,8 @@
-package de.telekom.de.bigBankingBrojekt.Implementation;
+package de.telekom.sea7.bigBankingBrojekt.Implementation;
 
-import de.telekom.de.bigBankingBrojekt.Interfaces.Zahlung;
-import de.telekom.de.bigBankingBrojekt.Interfaces.Zahlungen;
-import de.telekom.de.bigBankingBrojekt.Interfaces.ZahlungenView;
+import de.telekom.sea7.bigBankingBrojekt.Interfaces.Zahlung;
+import de.telekom.sea7.bigBankingBrojekt.Interfaces.Zahlungen;
+import de.telekom.sea7.bigBankingBrojekt.Interfaces.ZahlungenView;
 
 public class ZahlungenViewImpl implements ZahlungenView {
 	

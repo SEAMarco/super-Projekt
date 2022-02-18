@@ -1,6 +1,6 @@
-package de.telekom.de.bigBankingBrojekt.Implementation;
+package de.telekom.sea7.bigBankingBrojekt.Implementation;
 
-import de.telekom.de.bigBankingBrojekt.Interfaces.Zahlung;
+import de.telekom.sea7.bigBankingBrojekt.Interfaces.Zahlung;
 
 /**
  * Beschreibung einer einzelnen Zahlung

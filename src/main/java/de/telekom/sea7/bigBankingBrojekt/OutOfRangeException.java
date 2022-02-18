@@ -1,4 +1,4 @@
-package de.telekom.de.bigBankingBrojekt;
+package de.telekom.sea7.bigBankingBrojekt;
 
 /** Eigene Exception Klasse
  */
